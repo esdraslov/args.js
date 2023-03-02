@@ -1,6 +1,7 @@
 # args.js
 a html libray
 # exemples & how to use
+## how to use
 tag arg
 ```html
 <html>
@@ -16,6 +17,19 @@ tag important
 <body>
     <!-- formatation in Sans-serif and color red -->
     <important>tag arg</important>
+</body>
+</html>
+```
+## examples
+important example
+```html
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>important</title>
+</head>
+<body>
+    <important>github have a new repository</important>
 </body>
 </html>
 ```
