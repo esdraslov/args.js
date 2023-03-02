@@ -10,3 +10,12 @@ tag arg
 </body>
 </html>
 ```
+tag important
+```html
+<html>
+<body>
+    <!-- formatation in Sans-serif and color red -->
+    <important>tag arg</important>
+</body>
+</html>
+```
