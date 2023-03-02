@@ -33,3 +33,7 @@ important example
 </body>
 </html>
 ```
+# how to import
+in tag ```html <head> ``` paste:
+```html
+<script src="https://github.com/esdraslov/args.js/public/args.min.js"></script>
