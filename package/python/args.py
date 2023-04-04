@@ -4,4 +4,7 @@ from colorama import Fore, Back, Style
 init()
 
 def arg(text):
-    print('{} ' + text + ' {}'.format(Fore.BLUE, Fore.YELLOW))
+    print(Fore.BLUE + text)
+
+def important(text):
+    print(Fore.RED + text)
